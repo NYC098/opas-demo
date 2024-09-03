@@ -1,0 +1,21 @@
+{
+  "name": "opas-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.25.6",
+    "@babel/core": "^7.25.2",
+    "@opas/cli": "^0.13.1",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
